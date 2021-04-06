@@ -66,3 +66,6 @@ Wallpapers i'm currently using
 ### `/zathura`
 
 Black and White theme
+## Post notes:
+- Use Tela Black for your icons
+- Use DuvBox for Discord

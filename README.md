@@ -14,9 +14,6 @@ OP [here](https://www.reddit.com/r/unixporn/comments/lydglv/kdeplasma_easy_on_th
 
 ![screenshot](screenshots/Screenshot5.png)
 
-![screenshot](screenshots/Screenshot6.png)
-
-![screenshot](screenshots/Screenshot7.png)
 
 ## Modules
 

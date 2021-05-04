@@ -35,7 +35,7 @@ KDE global configs
 
 ### `/nano`
 
-Most of the syntax highlighters were "stollen" from <https://github.com/scopatz/nanorc>
+Most of the syntax highlighters were "stolen" from <https://github.com/scopatz/nanorc>
 
 
 ### `/plasma-color-scheme`

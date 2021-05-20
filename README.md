@@ -69,5 +69,5 @@ Black and White theme
 ## Post notes:
 - Use Tela Black for your icons
 - Use DuvBox for Discord
-- Use [this](https://github.com/Metsugami/gruvbox-firefox-green) firefox theme
-- Use [this](https://github.com/Metsugami/Minimal-Startpage) startpage
+- Use [this](https://github.com/SharkLava/gruvbox-firefox-green) firefox theme
+- Use [this](https://github.com/SharkLava/Minimal-Startpage) startpage
